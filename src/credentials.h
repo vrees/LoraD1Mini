@@ -1,4 +1,4 @@
-String nodeid = "myNode";  // nodeid is just used for information, not for network access
+String nodeid = "Viktor";  // nodeid is just used for information, not for network access
 
 // node credentials on ttn are in the console
 // https://console.thethingsnetwork.org/applications/%ApplicationID%/devices/%DeviceID%
