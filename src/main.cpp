@@ -63,7 +63,7 @@ const unsigned TX_INTERVAL = 10;
 
 //variables for power and spread factor
 u1_t power = 15;
-_dr_eu868_t sf = DR_SF10;
+_dr_eu868_t sf = DR_SF7;
 
 
 u1_t myPort = 0; // application port
